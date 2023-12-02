@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj": {}
+    "C:\\Users\\Igor.Zavojchevski.BTOBET\\Desktop\\AoC\\advent-of-code-2023\\advent-of-code-2023\\advent-of-code-2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj": {
+    "C:\\Users\\Igor.Zavojchevski.BTOBET\\Desktop\\AoC\\advent-of-code-2023\\advent-of-code-2023\\advent-of-code-2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj",
+        "projectUniqueName": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Desktop\\AoC\\advent-of-code-2023\\advent-of-code-2023\\advent-of-code-2023.csproj",
         "projectName": "advent-of-code-2023",
-        "projectPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj",
+        "projectPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Desktop\\AoC\\advent-of-code-2023\\advent-of-code-2023\\advent-of-code-2023.csproj",
         "packagesPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\obj\\",
+        "outputPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Desktop\\AoC\\advent-of-code-2023\\advent-of-code-2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Igor.Zavojchevski.BTOBET\\AppData\\Roaming\\NuGet\\NuGet.Config",

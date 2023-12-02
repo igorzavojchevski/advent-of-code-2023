@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj",
+        "projectName": "advent-of-code-2023",
+        "projectPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\advent-of-code-2023.csproj",
+        "packagesPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor.Zavojchevski.BTOBET\\Downloads\\advent-of-code-2023-main\\advent-of-code-2023-main\\advent-of-code-2023\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igor.Zavojchevski.BTOBET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://stg-116542397827.d.codeartifact.eu-west-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
